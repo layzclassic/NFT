@@ -2,7 +2,11 @@ import pandas as pd
 import turtle
 from PIL import Image
 
-# human properties
+# core human emotions
+class Core_emotions:
+    def__init__(self, happiness, saddness, fear, disgust, anger, surprise)
+        self.happines = 0
+
 
 # task completion
 focus = 0
@@ -18,13 +22,17 @@ impulse = 0
 excitement = 0
 # data tree pattern | contact quantity
 connection = 0
+lost = 0
 """
 # art elements
-line, expressive_line, shape, space
+line, expressive_line, shape, 
 
+# SPACE #
+Negative and positive space fill
 
 # COLOR #
 color_mix = [monochrome, analogous color, opposites]
+monochrome = ()
 color_temperature 
 value
 contrast
